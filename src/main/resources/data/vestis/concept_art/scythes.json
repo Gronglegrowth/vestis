@@ -7,7 +7,56 @@
       {
         "tag": "malum:scythe",
         "model": "vestis:scythes/sacred_scythe",
-        "hand_model": "vestis:scythes/wicked_scythe"
+        "hand_model": "vestis:scythes/sacred_scythe_handheld"
+      }
+    ],
+    "arcane": [
+      {
+        "tag": "malum:scythe",
+        "model": "vestis:scythes/arcane_scythe",
+        "hand_model": "vestis:scythes/arcane_scythe_handheld"
+      }
+    ],
+    "aqueous": [
+      {
+        "tag": "malum:scythe",
+        "model": "vestis:scythes/aqueous_scythe",
+        "hand_model": "vestis:scythes/aqueous_scythe_handheld"
+      }
+    ],
+    "aerial": [
+      {
+        "tag": "malum:scythe",
+        "model": "vestis:scythes/aerial_scythe",
+        "hand_model": "vestis:scythes/aerial_scythe_handheld"
+      }
+    ],
+    "earthen": [
+      {
+        "tag": "malum:scythe",
+        "model": "vestis:scythes/earthen_scythe",
+        "hand_model": "vestis:scythes/earthen_scythe_handheld"
+      }
+    ],
+    "eldritch": [
+      {
+        "tag": "malum:scythe",
+        "model": "vestis:scythes/eldritch_scythe",
+        "hand_model": "vestis:scythes/eldritch_scythe_handheld"
+      }
+    ],
+    "infernal": [
+      {
+        "tag": "malum:scythe",
+        "model": "vestis:scythes/infernal_scythe",
+        "hand_model": "vestis:scythes/infernal_scythe_handheld"
+      }
+    ],
+    "wicked": [
+      {
+        "tag": "malum:scythe",
+        "model": "vestis:scythes/wicked_scythe",
+        "hand_model": "vestis:scythes/wicked_scythe_handheld"
       }
     ]
   }
