@@ -1,7 +1,7 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "vestis:item/scythes/sacred_scythe_huge"
+    "layer0": "vestis:item/scythes/arcane_scythe_huge"
   },
   "display": {
     "thirdperson_righthand": {
