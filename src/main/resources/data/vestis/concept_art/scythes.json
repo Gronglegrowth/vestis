@@ -1,0 +1,14 @@
+
+{
+  "concept_art_model": "vestis:scythes",
+  "sold": false,
+  "variants": {
+    "sacred": [
+      {
+        "tag": "malum:scythe",
+        "model": "vestis:scythes/sacred_scythe",
+        "hand_model": "vestis:scythes/wicked_scythe"
+      }
+    ]
+  }
+}

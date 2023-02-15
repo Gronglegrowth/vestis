@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textureS": {
+    "layer0": "vestis:item/scythes/sacred_scythe"
+  }
+}
