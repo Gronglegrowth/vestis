@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "vestis:item/spirited_scythes_concept_art"
+  }
+}
