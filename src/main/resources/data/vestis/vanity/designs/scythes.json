@@ -1,0 +1,79 @@
+
+{
+  "model": "vestis:scythes",
+  "type": "sellable",
+  "styles": {
+    "sacred": [
+      {
+        "tag": "malum:scythe",
+        "assets": {
+          "default": "vestis:scythes/sacred_scythe",
+          "hand": "vestis:scythes/sacred_scythe_handheld"
+        }
+      }
+    ],
+    "arcane": [
+      {
+        "tag": "malum:scythe",
+        "assets": {
+          "default": "vestis:scythes/arcane_scythe",
+          "hand": "vestis:scythes/arcane_scythe_handheld"
+        }
+      }
+    ],
+    "aqueous": [
+      {
+        "tag": "malum:scythe",
+        "assets": {
+          "default": "vestis:scythes/aqueous_scythe",
+          "hand": "vestis:scythes/aqueous_scythe_handheld"
+        }
+      }
+    ],
+    "aerial": [
+      {
+        "tag": "malum:scythe",
+        "assets": {
+          "default": "vestis:scythes/aerial_scythe",
+          "hand": "vestis:scythes/aerial_scythe_handheld"
+        }
+      }
+    ],
+    "earthen": [
+      {
+        "tag": "malum:scythe",
+        "assets": {
+          "default": "vestis:scythes/earthen_scythe",
+          "hand": "vestis:scythes/earthen_scythe_handheld"
+        }
+      }
+    ],
+    "eldritch": [
+      {
+        "tag": "malum:scythe",
+        "assets": {
+          "default": "vestis:scythes/eldritch_scythe",
+          "hand": "vestis:scythes/eldritch_scythe_handheld"
+        }
+      }
+    ],
+    "infernal": [
+      {
+        "tag": "malum:scythe",
+        "assets": {
+          "default": "vestis:scythes/infernal_scythe",
+          "hand": "vestis:scythes/infernal_scythe_handheld"
+        }
+      }
+    ],
+    "wicked": [
+      {
+        "tag": "malum:scythe",
+        "assets": {
+          "default": "vestis:scythes/wicked_scythe",
+          "hand": "vestis:scythes/wicked_scythe_handheld"
+        }
+      }
+    ]
+  }
+}
