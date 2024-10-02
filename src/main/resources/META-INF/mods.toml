@@ -1,15 +1,15 @@
-modLoader="javafml"
+modLoader="lowcodefml"
 loaderVersion="[47,)"
 license="MIT"
-#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+issueTrackerURL="https://github.com/Gronglegrowth/vestis"
 [[mods]]
 modId="vestis"
 version="${file.jarVersion}"
 displayName="Malum: Vestis"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/malum-vestis"
 #logoFile="examplemod.png"
-credits="Gronglegrowth: implementation\nShesaRamblingRose: art" #optional
-authors="Gronglegrowth, ShesaRamblingRose" #optional
+credits="EsetKalenko: implementation\nShesaRamblingRose: art" #optional
+authors="EsetKalenko, ShesaRamblingRose" #optional
 description='''
 An addon to Sammy;'s Malum which uses Vanity to add additional cosmetics to equipment.
 '''
