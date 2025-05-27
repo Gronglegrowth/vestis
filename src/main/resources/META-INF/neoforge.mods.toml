@@ -1,0 +1,36 @@
+modLoader="lowcodefml"
+loaderVersion="[1,)"
+license="MIT"
+issueTrackerURL="https://github.com/Gronglegrowth/vestis/issues"
+
+[[mods]]
+modId="vestis"
+version="1.0.1"
+displayName="Malum: Vestis"
+authors="EsetKalenko (implementation), ShesaRamblingRose (art)"
+description='''An addon to Sammy;'s Malum which uses Vanity to add additional cosmetics to equipment.'''
+
+[[dependencies.vestis]]
+    modId="neoforge"
+    type="required"
+    versionRange="${neo_version_range}"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.vestis]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.22)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.vestis]]
+    modId="malum"
+    versionRange="[1.0.0,)"
+    ordering="AFTER"
+    side="BOTH"
+    type="required"
+[[dependencies.vestis]]
+    modId="vanity"
+    versionRange="[1.0.0,)"
+    ordering="AFTER"
+    side="BOTH"
+    type="required"
