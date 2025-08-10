@@ -5,7 +5,7 @@ issueTrackerURL="https://github.com/Gronglegrowth/vestis/issues"
 
 [[mods]]
 modId="vestis"
-version="1.0.1"
+version="1.0.2"
 displayName="Malum: Vestis"
 authors="EsetKalenko (implementation), ShesaRamblingRose (art)"
 description='''An addon to Sammy;'s Malum which uses Vanity to add additional cosmetics to equipment.'''
