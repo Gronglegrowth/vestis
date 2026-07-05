@@ -10,6 +10,9 @@ displayName="Malum: Vestis"
 authors="EsetKalenko (implementation), ShesaRamblingRose (art)"
 description='''An addon to Sammy;'s Malum which uses Vanity to add additional cosmetics to equipment.'''
 
+[[mixins]]
+config = "vestis.mixins.json"
+
 [[dependencies.vestis]]
     modId="neoforge"
     type="required"

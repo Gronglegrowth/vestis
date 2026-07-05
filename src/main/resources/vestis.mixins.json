@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.gronglegrowth.vestis.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [],
+    "client": [
+        "ScytheBoomerangRendererMixin",
+        "WeaponParticleEffectsMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

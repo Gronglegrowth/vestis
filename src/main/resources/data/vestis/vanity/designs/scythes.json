@@ -8,7 +8,8 @@
         "tag": "malum:scythe",
         "assets": {
           "default": "vestis:scythes/sacred_scythe",
-          "hand": "vestis:scythes/sacred_scythe_handheld"
+          "hand": "vestis:scythes/sacred_scythe_handheld",
+          "malum_spirit": "malum:sacred"
         }
       }
     ],
@@ -17,7 +18,8 @@
         "tag": "malum:scythe",
         "assets": {
           "default": "vestis:scythes/arcane_scythe",
-          "hand": "vestis:scythes/arcane_scythe_handheld"
+          "hand": "vestis:scythes/arcane_scythe_handheld",
+          "malum_spirit": "malum:arcane"
         }
       }
     ],
@@ -26,7 +28,8 @@
         "tag": "malum:scythe",
         "assets": {
           "default": "vestis:scythes/aqueous_scythe",
-          "hand": "vestis:scythes/aqueous_scythe_handheld"
+          "hand": "vestis:scythes/aqueous_scythe_handheld",
+          "malum_spirit": "malum:aqueous"
         }
       }
     ],
@@ -35,7 +38,8 @@
         "tag": "malum:scythe",
         "assets": {
           "default": "vestis:scythes/aerial_scythe",
-          "hand": "vestis:scythes/aerial_scythe_handheld"
+          "hand": "vestis:scythes/aerial_scythe_handheld",
+          "malum_spirit": "malum:aerial"
         }
       }
     ],
@@ -44,7 +48,8 @@
         "tag": "malum:scythe",
         "assets": {
           "default": "vestis:scythes/earthen_scythe",
-          "hand": "vestis:scythes/earthen_scythe_handheld"
+          "hand": "vestis:scythes/earthen_scythe_handheld",
+          "malum_spirit": "malum:earthen"
         }
       }
     ],
@@ -53,7 +58,8 @@
         "tag": "malum:scythe",
         "assets": {
           "default": "vestis:scythes/eldritch_scythe",
-          "hand": "vestis:scythes/eldritch_scythe_handheld"
+          "hand": "vestis:scythes/eldritch_scythe_handheld",
+          "malum_spirit": "malum:eldritch"
         }
       }
     ],
@@ -62,7 +68,8 @@
         "tag": "malum:scythe",
         "assets": {
           "default": "vestis:scythes/infernal_scythe",
-          "hand": "vestis:scythes/infernal_scythe_handheld"
+          "hand": "vestis:scythes/infernal_scythe_handheld",
+          "malum_spirit": "malum:infernal"
         }
       }
     ],
@@ -71,7 +78,8 @@
         "tag": "malum:scythe",
         "assets": {
           "default": "vestis:scythes/wicked_scythe",
-          "hand": "vestis:scythes/wicked_scythe_handheld"
+          "hand": "vestis:scythes/wicked_scythe_handheld",
+          "malum_spirit": "malum:wicked"
         }
       }
     ]
