@@ -13,6 +13,14 @@ group = mod_group_id
 
 repositories {
     mavenLocal()
+    maven {
+        name = "Modrinth"
+        url = "https://api.modrinth.com/maven"
+        content {
+            // Malum
+            includeGroup "maven.modrinth"
+        }
+    }
 }
 
 base {
@@ -33,12 +41,14 @@ neoForge {
         client {
             client()
             systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
+            systemProperty 'mixin.debug.export', 'true'
         }
 
         server {
             server()
             programArgument '--nogui'
             systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
+            systemProperty 'mixin.debug.export', 'true'
         }
 
         gameTestServer {
@@ -93,6 +103,11 @@ dependencies {
     // For more info:
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
+
+    implementation "maven.modrinth:vanity-core:${vanity_version}"
+
+    implementation "maven.modrinth:LodestoneLib:${lodestone_version}"
+    implementation "maven.modrinth:Malum:${malum_version}"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {

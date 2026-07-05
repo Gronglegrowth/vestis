@@ -12,6 +12,6 @@ public class Vestis
 
     public Vestis()
     {
-
+        VestisAssetTypes.init();
     }
 }
